@@ -1,1 +1,1 @@
-bounded_cumsum
+# bounded cumulative sum
